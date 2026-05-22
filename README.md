@@ -18,6 +18,8 @@ Built around real Sentinel-2 data from Parana, Brazil.
 | P0.1 — Satellite Noise | How does sensor noise affect satellite data? | Gaussian noise · SAR speckle · likelihood |
 | P0.2 — NDVI Uncertainty | Where can I trust the NDVI? | Error propagation · Monte Carlo |
 
+📓 [Notebook](level-0/Bayesian_p1_p2.ipynb)
+
 ### Level 1 — coming soon
 ### Level 2 — coming soon
 
