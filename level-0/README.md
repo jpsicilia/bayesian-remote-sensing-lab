@@ -77,7 +77,3 @@ This level builds the physical and statistical foundation for all subsequent pro
 ```
 
 ---
-
-## Next: Level 1 — Bayesian Land Cover Classification
-
-Using the likelihood models from P0.1 and the uncertainty maps from P0.2, Level 1 builds a full Bayesian classifier that assigns probability distributions to land cover classes.
