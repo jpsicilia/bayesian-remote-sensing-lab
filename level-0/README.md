@@ -72,7 +72,7 @@ This level builds the physical and statistical foundation for all subsequent pro
 
 ```bash
 # Google Colab — recommended
-# Open notebook_level0.ipynb and run all cells
+# Open Bayesian_p1_p2.ipynb and run all cells
 # Data downloads automatically from Planetary Computer
 ```
 
